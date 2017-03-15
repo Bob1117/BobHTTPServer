@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="kkh-FQ-gXp">
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="Mn3-oN-W0z"/>
+                                </constraints>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UaQ-OZ-p8Q">
+                                <color key="backgroundColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="uDn-rR-FbL"/>
+                                </constraints>
+                                <state key="normal" title="导入-接口">
+                                    <color key="titleColor" red="1" green="0.50196081400000003" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="writeServer:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7yL-zI-fc9"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="点击导入后在safari中输入             &quot;localhost:12345/apps&quot;查看结果" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DXj-Bi-g1G">
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NMF-Xl-u6O">
+                                <color key="backgroundColor" red="0.43529411759999997" green="0.4431372549" blue="0.47450980390000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="MOb-tT-Ow8"/>
+                                </constraints>
+                                <state key="normal" title="跳转safari">
+                                    <color key="titleColor" red="1" green="0.50196081400000003" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="jumpSafari:" destination="BYZ-38-t0r" eventType="touchUpInside" id="VX8-Dh-xmg"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E2A-76-7gk">
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="c01-os-xBr"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="UaQ-OZ-p8Q" firstAttribute="centerX" secondItem="kkh-FQ-gXp" secondAttribute="centerX" id="4Ou-fE-e98"/>
+                            <constraint firstItem="E2A-76-7gk" firstAttribute="top" secondItem="NMF-Xl-u6O" secondAttribute="bottom" constant="30" id="B0h-ok-8Zf"/>
+                            <constraint firstItem="E2A-76-7gk" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="10" id="CYS-qV-Xno"/>
+                            <constraint firstAttribute="trailing" secondItem="DXj-Bi-g1G" secondAttribute="trailing" constant="20" id="GRh-kX-7RZ"/>
+                            <constraint firstItem="DXj-Bi-g1G" firstAttribute="top" secondItem="UaQ-OZ-p8Q" secondAttribute="bottom" constant="20" id="KtP-7D-8EV"/>
+                            <constraint firstAttribute="trailing" secondItem="kkh-FQ-gXp" secondAttribute="trailing" constant="20" id="MC2-t0-1dW"/>
+                            <constraint firstItem="UaQ-OZ-p8Q" firstAttribute="top" secondItem="kkh-FQ-gXp" secondAttribute="bottom" constant="30" id="Na4-dy-TQV"/>
+                            <constraint firstItem="kkh-FQ-gXp" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="20" id="hoa-tl-ARP"/>
+                            <constraint firstAttribute="trailing" secondItem="E2A-76-7gk" secondAttribute="trailing" constant="10" id="ird-QT-0k3"/>
+                            <constraint firstItem="NMF-Xl-u6O" firstAttribute="centerX" secondItem="UaQ-OZ-p8Q" secondAttribute="centerX" id="j8p-hu-kQj"/>
+                            <constraint firstItem="kkh-FQ-gXp" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="150" id="k64-ef-oIG"/>
+                            <constraint firstItem="NMF-Xl-u6O" firstAttribute="top" secondItem="DXj-Bi-g1G" secondAttribute="bottom" constant="20" id="kQw-wl-uHn"/>
+                            <constraint firstItem="DXj-Bi-g1G" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="20" id="xVk-CV-e5M"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="myText" destination="kkh-FQ-gXp" id="TW2-13-qqI"/>
+                        <outlet property="resposeLabel" destination="E2A-76-7gk" id="7QW-39-c5W"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>

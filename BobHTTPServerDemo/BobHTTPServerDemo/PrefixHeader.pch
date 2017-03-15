@@ -1,0 +1,35 @@
+//
+//  PrefixHeader.pch
+//  ZOOM
+//
+//  Created by WeShape_Design01 on 16/5/20.
+//  Copyright © 2016年 Weshape3D. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#import "DDLog.h"
+#import "DDTTYLogger.h"
+#import "DDASLLogger.h"
+
+#ifdef DEBUG
+static const int ddLogLevel = LOG_LEVEL_VERBOSE;
+#else
+static const int ddLogLevel = LOG_LEVEL_OFF;
+#endif
+
+
+
+#pragma mark 通知宏
+
+#define HTTPServerReady  @"httpServerReady"
+
+
+#pragma mark 方法宏
+
+#define  DEFAULTAPPDELEGATE  (AppDelegate*)[UIApplication sharedApplication].delegate
+//获取沙盒Document路径
+#define HOME_DOCUMENT [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) lastObject]
+#endif

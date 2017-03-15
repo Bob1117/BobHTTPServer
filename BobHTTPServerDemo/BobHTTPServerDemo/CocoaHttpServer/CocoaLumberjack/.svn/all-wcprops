@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack
+END
+DDLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/DDLog.h
+END
+DDASLLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/DDASLLogger.m
+END
+DDFileLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/DDFileLogger.m
+END
+DDTTYLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/DDTTYLogger.m
+END
+DDLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/DDLog.m
+END
+DDAbstractDatabaseLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/DDAbstractDatabaseLogger.h
+END
+About.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/About.txt
+END
+DDAbstractDatabaseLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/DDAbstractDatabaseLogger.m
+END
+DDASLLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/DDASLLogger.h
+END
+DDFileLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/DDFileLogger.h
+END
+DDTTYLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/CocoaLumberjack/DDTTYLogger.h
+END

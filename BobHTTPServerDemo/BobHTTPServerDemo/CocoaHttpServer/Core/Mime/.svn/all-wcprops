@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Mime
+END
+MultipartFormDataParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Mime/MultipartFormDataParser.h
+END
+MultipartMessageHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Mime/MultipartMessageHeader.h
+END
+MultipartFormDataParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Mime/MultipartFormDataParser.m
+END
+MultipartMessageHeaderField.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Mime/MultipartMessageHeaderField.h
+END
+MultipartMessageHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Mime/MultipartMessageHeader.m
+END
+MultipartMessageHeaderField.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Mime/MultipartMessageHeaderField.m
+END

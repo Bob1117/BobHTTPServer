@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core
+END
+HTTPMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/HTTPMessage.m
+END
+HTTPServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/HTTPServer.m
+END
+WebSocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/WebSocket.m
+END
+HTTPAuthenticationRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/HTTPAuthenticationRequest.m
+END
+HTTPResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/HTTPResponse.h
+END
+HTTPConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/HTTPConnection.h
+END
+singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/singleton.h
+END
+HTTPConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/HTTPConnection.m
+END
+HTTPMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/HTTPMessage.h
+END
+HTTPLogging.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/HTTPLogging.h
+END
+HTTPServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/HTTPServer.h
+END
+WebSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/WebSocket.h
+END
+HTTPAuthenticationRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/HTTPAuthenticationRequest.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses
+END
+HTTPAsyncFileResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPAsyncFileResponse.h
+END
+HTTPDataResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPDataResponse.m
+END
+HTTPErrorResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPErrorResponse.m
+END
+HTTPFileResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPFileResponse.h
+END
+HTTPRedirectResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPRedirectResponse.h
+END
+HTTPAsyncFileResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPAsyncFileResponse.m
+END
+HTTPDynamicFileResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPDynamicFileResponse.h
+END
+HTTPFileResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPFileResponse.m
+END
+HTTPRedirectResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPRedirectResponse.m
+END
+HTTPDataResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPDataResponse.h
+END
+HTTPDynamicFileResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPDynamicFileResponse.m
+END
+HTTPErrorResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/androidGameStore/!svn/ver/1557/iOS/%E6%9D%A5%E6%98%93%E9%A6%96/CocoaHttpServer/Core/Responses/HTTPErrorResponse.h
+END
